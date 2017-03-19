@@ -1,5 +1,5 @@
 {
-    "name": "mikemclin/passport-custom-request-grant",
+    "name": "mirkco/passport-custom-request-grant",
     "description": "Custom Request Grant for Laravel Passport",
     "license": "MIT",
     "keywords": ["laravel", "lumen", "passport", "oauth", "grant"],
@@ -7,6 +7,10 @@
         {
             "name": "Mike McLin",
             "email": "mclinmike@gmail.com"
+        },
+        {
+            "name": "Jacob Morris",
+            "jacob@mirk.co"
         }
     ],
     "autoload": {
